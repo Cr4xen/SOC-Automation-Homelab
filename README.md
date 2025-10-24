@@ -1,2 +1,9 @@
-# SOC-Automation-Homelab
-This project automates SOC workflows using Wazuh, Shuffle, and TheHive. It involves setting up a Windows 10 client with Sysmon and Ubuntu 22.04 for Wazuh and TheHive, deployed on cloud or VMs. Goals: automate event collection, alerting, and incident response to enhance SOC efficiency. 
+## 📚 Documentation & Guide  
+
+![Status](https://img.shields.io/badge/Documentation-Available-success?style=for-the-badge&logo=readthedocs)
+
+The full **HomeLab SOC Automation Documentation (PDF)** is available in this repository.  
+It includes detailed insights on:  
+🧩 Architecture • ⚙️ Automation Workflow • 🧠 Setup & Implementation  
+
+📘 **[Open Documentation →](https://github.com/Cr4xen/SOC-Automation-Homelab/blob/main/Documentation.pdf)**  
